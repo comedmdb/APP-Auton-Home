@@ -1,0 +1,61 @@
+
+	html,body {
+		padding-left: 11em;
+		background-color: #6C9CBE }
+	
+	ul.navbar {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		top: 5em;
+		left: 3em;
+		width: 7em; }
+	
+	ul.navbar li {
+		background: white;
+		margin: 2em 0 1em 2em;
+		padding: 0.3em;
+		/* border-right: 1em solid black  */
+	}
+	ul.navbar a {
+		text-decoration: none }
+	a:link {
+		color: #094B84 }
+	/*a:visited {
+		color: purple }
+	Pour déterminer la couleur du site apres avoir cliqué dessus
+	*/
+	h1 {
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		top: 1em;
+		left: 1em;
+		width: 7em; 
+		color: #094B84;
+		border-bottom: solid;
+		width: 70%;
+	}
+	
+	p {
+		margin-top: 3em;
+		/* border-top: solid;
+		width: 70%;
+		*/
+		color: #094B84;
+	}
+	
+	address {
+		margin-top: 3em;
+		padding-top: 1em;
+		margin-bottom: 3em;
+		border-top: solid;
+		width: 70%;
+		color: #094B84;
+	}
+	
+	
+	
+	
+	
